@@ -2,11 +2,11 @@ import Readme from "@/components/projects/Readme"
 import Container from "@/components/shared/Container"
 import Header from "@/components/shared/Header"
 import ImageCarousel from "@/components/shared/ImageCarousel"
-import MDContent from "@/components/shared/MDContent"
 import Technologies from "@/components/technologies/Technologies"
 import { getReadme } from "@/functions/github"
 import { getProject } from "@/functions/projects"
-import { read } from "fs"
+
+// export const revalidate = 3600 // 1 hour
 
 export default async function ProjectPage(props: { params: Promise<{ id: string }> }) {
     const { id } = await props.params

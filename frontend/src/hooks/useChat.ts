@@ -5,7 +5,7 @@ import talkToAssistant from "@/functions/chat"
 import { useState } from "react"
 
 export default function useChat() {
-    const [chatId, setChatId] = useLocalStorage<string>("chatId", Id.generate())
+    const [chatId] = useLocalStorage<string>("chatId", Id.generate())
     const [messages, setMessages] = useLocalStorage<Message[]>("messages", [])
     const [thinking, setThinking] = useState(false)
 
