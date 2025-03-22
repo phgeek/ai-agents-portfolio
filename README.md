@@ -1,4 +1,4 @@
-# Portfolio + AI Agents
+# AI Agents Portfolio
 
 <div align="center">
 <img src="./.gitassets/cover.png" width="350px" />
@@ -14,9 +14,9 @@
 <img alt="NestJS" src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
 <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 <img alt="Prisma" src="https://img.shields.io/badge/Prisma-121c25?style=for-the-badge&logo=Prisma&logoColor=white" />
-<img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-fff?style=for-the-badge&logo=tailwind-css&logoColor=00bcff" />
+<img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-f0f0f0?style=for-the-badge&logo=tailwind-css&logoColor=00bcff" />
 <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img alt="n8n" src="https://img.shields.io/badge/n8n-fff?style=for-the-badge&logo=n8n&logoColor=ea4b71" />
+<img alt="n8n" src="https://img.shields.io/badge/n8n-f0f0f0?style=for-the-badge&logo=n8n&logoColor=ea4b71" />
 <img alt="Supabase" src="https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase" />
 </div>
 </div>
